@@ -7,7 +7,7 @@ pipeline {
 
         VERSION = 'latest'
 
-        DOCKERREPO = '759091733198.dkr.ecr.us-east-1.amazonaws.com'
+        DOCKERREPO = ''
     
     }
 
