@@ -1,0 +1,4 @@
+node_modules
+.vscode
+terraform/terraform.tfstate.backup
+terraform/.terraform
